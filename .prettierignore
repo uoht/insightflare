@@ -1,0 +1,16 @@
+.cache
+.playwright-cli
+.wrangler
+.tanstack
+dist
+.output
+node_modules
+output
+tmp
+coverage
+playwright-report
+test-results
+src/routeTree.gen.ts
+*.log
+*.tsbuildinfo
+**/*.md
